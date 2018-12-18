@@ -1,0 +1,4 @@
+daily_engagement_full -> https://www.udacity.com/api/nodes/5430778793/supplemental_media/daily-engagement-fullcsv/download
+enrollments.csv: https://www.udacity.com/api/nodes/5430778793/supplemental_media/enrollmentscsv/download
+daily_engagement.csv: https://www.udacity.com/api/nodes/5430778793/supplemental_media/daily-engagementcsv/download
+project_submissions.csv: https://www.udacity.com/api/nodes/5430778793/supplemental_media/project-submissionscsv/download
